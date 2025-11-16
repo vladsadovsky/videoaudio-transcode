@@ -2,6 +2,9 @@
 
 A tool for extracting audio from videos, transcribing with OpenAI Whisper, and formatting transcriptions to Markdown using LLMs.
 
+Nb: Developed using an AI agent Claude Sonnet 4.5.
+
+
 ## Project Structure
 
 ```
